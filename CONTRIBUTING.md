@@ -32,3 +32,4 @@ Each blog should be at least 500 words.
 Ensure proper grammar and formatting in your post.
 Do not submit blogs that are promotional or unrelated to the suggested topics.
 No use of AI for writing the Blog.
+If your blog topic falls under a new domain that is not already present in the repository, please create a new field for that domain in the repository’s README or relevant documentation.
