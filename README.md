@@ -67,4 +67,6 @@ We encourage contributors to write on the following trending domains:
     - Exploring micro-frontends for frontend development
     - Common design patterns in modern programming
     - The role of documentation and testing
+
+
 We are welcome to get more blogs on other topics but the domains should be from the above list..
