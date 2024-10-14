@@ -1,0 +1,40 @@
+        
+                                                                     TYPES OF GENERATIVE AI MODELS
+
+To put it simply , generative AI models are systems that create all sorts of original content, images, videos, music, and text.
+Several kinds of generative AI models exist, and they harbor varying strengths and weaknesses within their trajectories of amplification.
+A beginner generally feels confused when it comes to keeping up with different types of generative AI models. In this blog, let us unfold what clinical analysis says about two handsome types of generative AI models-GAN and RNN. 
+
+What are GAN?
+
+Generative Adversarial Networks, or GANs, are a class of generative AI models which consist of two neural networks: a generator and a discriminator.
+So what is this? The generator creates the new content while the discriminator checks the others' generated content and reviews whether it looks real to him or not.
+
+Let's illustrate with an example: 
+
+You are probably an artist wishing to make a brand new painting that someone will think is painted by a famous artist. You will imitate thus, making it difficult to master. The introduction of GANs comes in.
+A GAN works almost like a game where two players-a generator and a discriminator-play against each other. The generator paints the new painting, and the discriminator judges whether the painting was real or fake. The feedback the discriminator provides the generator makes the generator improve on rendering better paintings based on the forerunning competition.
+
+
+What are Recurrent Neural Networks(RNNs)? 
+
+Recurrent Neural Networks (RNNs) are a type of generative AI model that are designed to handle sequential data, such as text, speech, or time series data. RNNs are composed of a series of recurrent layers, each of which processes the input data one time step at a time.
+
+How RNNs work?
+
+RNNs work by processing the input data one time step at a time. Each recurrent layer processes the input data and passes the output to the next layer. The output of the final layer is the generated content.
+
+Imagine you're trying to write a story, but you can only think of one sentence at a time. You could use an RNN to help you generate the next sentence.
+
+An RNN is like a magic pen that can remember what you wrote before and use it to help you write the next sentence. It's like having a conversation with yourself, where you respond to your own thoughts.
+
+Here's a simple example of how RNNs work:
+
+You write the first sentence of your story, let's say "Once upon a time..."
+The RNN reads the sentence and says, "Ah, I think the next sentence should be..."
+The RNN generates a new sentence, let's say "There was a beautiful princess."
+You read the new sentence and say, "Great, what happens next?"
+The RNN reads the previous sentence and generates a new one, let's say "She lived in a castle with a dragon."
+This process keeps going until you've written a whole story.
+
+Generative AI models are a powerful tool for creating new, original content. GANs and RNNs are two of the most popular types of generative AI models, each with its own strengths and weaknesses. By understanding the differences between GANs and RNNs, developers can choose the right model for their specific use case.
